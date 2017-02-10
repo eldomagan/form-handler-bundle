@@ -16,6 +16,5 @@
         "psr-4": {
             "EldoMagan\\FormHandlerBundle\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
