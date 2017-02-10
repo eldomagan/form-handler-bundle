@@ -1,0 +1,21 @@
+{
+    "name": "eldomagan/form-handler-bundle",
+    "description": "Add FormHandler to Symfony 3",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eldo Magan",
+            "email": "magan.eldo@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/symfony": ">=3.0"
+    },    
+    "autoload": {
+        "psr-4": {
+            "EldoMagan\\FormHandlerBundle\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
